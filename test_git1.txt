@@ -2,3 +2,6 @@ mettre un fichier dans test git
 modifier 
 ajouter
 push
+modifier encore
+sans faire commit
+
